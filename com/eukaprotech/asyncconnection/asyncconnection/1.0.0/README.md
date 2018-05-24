@@ -4,7 +4,7 @@ A java asynchronous http client based on HttpURLConnection.
 # Getting Started
 
 # Installation (Java)
-* Click [here](https://github.com/eukaprotech/AsyncConnection/raw/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.0/asyncconnection-1.0.0.jar "Version 1.0.0 Jar file") to download the jar file. 
+* Click [here](https://bintray.com/eukaprotech/maven/download_file?file_path=com%2Feukaprotech%2Fasyncconnection%2Fasyncconnection%2F1.0.0%2Fasyncconnection-1.0.0.jar "Version 1.0.0 Jar file") to download the jar file. 
 * Add the jar file to your project's build path
 
 # Installation (Android)
