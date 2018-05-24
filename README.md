@@ -2,13 +2,13 @@
 A java asynchronous http client based on HttpURLConnection.
 
 # Versions
-* [v1.0.0](https://github.com/eukaprotech/networking/blob/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.0/README.md "Version 1.0.0 Overview")
-* [v1.0.1](https://github.com/eukaprotech/networking/blob/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.1/README.md "Version 1.0.1 Overview")
+* [v1.0.0](https://github.com/eukaprotech/AsyncConnection/blob/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.0/README.md "Version 1.0.0 Overview")
+* [v1.0.1](https://github.com/eukaprotech/AsyncConnection/blob/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.1/README.md "Version 1.0.1 Overview")
 
 # Getting Started (V1.0.1)
 
 # Installation (Java)
-* Click [here](https://github.com/eukaprotech/networking/blob/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.1/asyncconnection-1.0.1.jar "Version 1.0.1 Jar file") to download the jar file. 
+* Click [here](https://github.com/eukaprotech/AsyncConnection/blob/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.1/asyncconnection-1.0.1.jar "Version 1.0.1 Jar file") to download the jar file. 
 * Add the jar file to your project's build path
 
 # Installation (Android)
