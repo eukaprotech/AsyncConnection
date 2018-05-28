@@ -12,6 +12,9 @@ A java asynchronous http client based on HttpURLConnection.
 * Add the jar file to your project's build path
 
 # Installation (Android)
+It is recommended that you use the android customized library. Click [here](https://github.com/eukaprotech/networking/blob/master/README.md) for the android library review. 
+To use this java library for android:
+
 Add the dependency in build.gradle (App module)
 
 ```compile 'com.eukaprotech.asyncconnection:asyncconnection:1.0.1'```
