@@ -7,7 +7,19 @@ A java asynchronous http client based on HttpURLConnection.
 * Click [here](https://bintray.com/eukaprotech/maven/download_file?file_path=com%2Feukaprotech%2Fasyncconnection%2Fasyncconnection%2F1.0.0%2Fasyncconnection-1.0.0.jar "Version 1.0.0 Jar file") to download the jar file. 
 * Add the jar file to your project's build path
 
+OR
+
+If your java project is a gradle project:
+Add the dependency in build.gradle
+
+```compile 'com.eukaprotech.asyncconnection:asyncconnection:1.0.0'```
+
+
 # Installation (Android)
+It is recommended that you use the android customized library. Click [here](https://github.com/eukaprotech/networking/blob/master/README.md) for the android library review. 
+
+To use this java library for android:
+
 Add the dependency in build.gradle (App module)
 
 ```compile 'com.eukaprotech.asyncconnection:asyncconnection:1.0.0'```
@@ -15,6 +27,7 @@ Add the dependency in build.gradle (App module)
 Add permission in manifest file
 
 ```<uses-permission android:name="android.permission.INTERNET" />```
+
 
 # Usage
 
