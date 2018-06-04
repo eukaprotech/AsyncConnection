@@ -17,7 +17,7 @@ OR
 If your java project is a gradle project:
 Add the dependency in build.gradle
 
-```compile 'com.eukaprotech.asyncconnection:asyncconnection:1.0.1'```
+```compile 'com.eukaprotech.asyncconnection:asyncconnection:1.0.2'```
 
 
 # Installation (Android)
