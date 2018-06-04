@@ -4,11 +4,12 @@ A java asynchronous http client based on HttpURLConnection.
 # Versions
 * [v1.0.0](https://github.com/eukaprotech/AsyncConnection/blob/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.0/README.md "Version 1.0.0 Overview")
 * [v1.0.1](https://github.com/eukaprotech/AsyncConnection/blob/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.1/README.md "Version 1.0.1 Overview")
+* [v1.0.2](https://github.com/eukaprotech/AsyncConnection/blob/master/com/eukaprotech/asyncconnection/asyncconnection/1.0.2/README.md "Version 1.0.2 Overview")
 
-# Getting Started (V1.0.1)
+# Getting Started (V1.0.2)
 
 # Installation (Java)
-* Click [here](https://bintray.com/eukaprotech/maven/download_file?file_path=com%2Feukaprotech%2Fasyncconnection%2Fasyncconnection%2F1.0.1%2Fasyncconnection-1.0.1.jar "Version 1.0.1 Jar file") to download the jar file. 
+* Click [here](https://bintray.com/eukaprotech/maven/download_file?file_path=com%2Feukaprotech%2Fasyncconnection%2Fasyncconnection%2F1.0.2%2Fasyncconnection-1.0.2.jar "Version 1.0.2 Jar file") to download the jar file. 
 * Add the jar file to your project's build path
 
 OR
@@ -26,13 +27,13 @@ To use this java library for android:
 
 Add the dependency in build.gradle (App module)
 
-```compile 'com.eukaprotech.asyncconnection:asyncconnection:1.0.1'```
+```compile 'com.eukaprotech.asyncconnection:asyncconnection:1.0.2'```
 
 Add permission in manifest file
 
 ```<uses-permission android:name="android.permission.INTERNET" />```
 
-# Usage (V1.0.1)
+# Usage (V1.0.2)
 
 # Request Methods covered:
 
@@ -244,6 +245,14 @@ To enable protocol shift redirects:
 ``` js
 AsyncConnection asyncConnection = new AsyncConnection();
 asyncConnection.setFollowProtocolShiftRedirects(true);
+```
+
+# Setting Time Out
+
+``` js
+AsyncConnection asyncConnection = new AsyncConnection();
+int time_out_in_milliseconds = 5000;
+asyncConnection.setTimeOut(time_out_in_milliseconds);
 ```
  
 # NOTE
