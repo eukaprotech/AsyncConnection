@@ -265,6 +265,4 @@ String responseBody = new String(response, "UTF-8");
 ```
  
  
-<a href='https://bintray.com/eukaprotech/maven/AsyncConnection?source=watch' alt='Get automatic notifications about new "networking" versions'><img src='https://www.bintray.com/docs/images/bintray_badge_color.png'></a>
-
-[ ![Download](https://api.bintray.com/packages/eukaprotech/maven/AsyncConnection/images/download.svg?version=1.0.1) ](https://bintray.com/eukaprotech/maven/AsyncConnection/1.0.1/link)
+[ ![Download](https://api.bintray.com/packages/eukaprotech/maven/AsyncConnection/images/download.svg) ](https://bintray.com/eukaprotech/maven/AsyncConnection/_latestVersion)
